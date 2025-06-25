@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Qwappy"
 permalink: /about/
 ---
 
@@ -29,3 +29,6 @@ permalink: /about/
     </div>
   </div>
 </section>
+
+<img src="{{ '/assets/images/logo/QW-removebg-preview.png' | relative_url }}" alt="Qwappy Logo">
+<a href="{{ '/about/' | relative_url }}">GAMES</a>
