@@ -29,5 +29,3 @@ permalink: /about/
     </div>
   </div>
 </section>
-
-<a href="{{ '/about/' | relative_url }}">GAMES</a>
