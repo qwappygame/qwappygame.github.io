@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Qwappy"
 permalink: /about/
 ---
 
