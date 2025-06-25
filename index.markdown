@@ -7,7 +7,7 @@ title: COMPANY
 ---
 
 <div style="width:100vw;position:relative;left:50%;right:50%;margin-left:-50vw;margin-right:-50vw; display:flex; justify-content:center;">
-  <iframe width="900" height="450" src="https://www.youtube.com/embed/ZOEqt5imoBI" 
+  <iframe width="900" height="450" src="https://www.youtube.com/embed/EwNVVUYSo8I" 
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen style="max-width:100vw; border-radius:18px;"></iframe>
 </div>
