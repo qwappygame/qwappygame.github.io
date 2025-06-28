@@ -21,8 +21,8 @@ permalink: /about/
         <a href="https://galaxy.store/yourapp" target="_blank" style="display:inline-block;">
           <img src="{{ '/assets/images/icons/GalaxyStore.png' | relative_url }}" alt="Galaxy Store" style="height:40px;">
         </a>
-        <a href="https://www.skillz.com/games/yourapp" target="_blank" style="background:#43e97b; color:#222; display:inline-flex; align-items:center; justify-content:center; min-width:135px; height:40px; font-size:1rem; font-weight:600; border-radius:8px; text-decoration:none; margin:0; padding:0 0;">
-          Skillz
+        <a href="https://www.skillz.com/games/yourapp" target="_blank" style="display:inline-block;">
+          <img src="{{ '/assets/images/icons/Skillz.png' | relative_url }}" alt="Skillz" style="height:40px;">
         </a>
       </div>
     </div>
