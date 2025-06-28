@@ -65,17 +65,19 @@ permalink: /privacy-policy/
   </ul>
 
   <h3>3.3 How we use this information:</h3>
-  <ul style="text-align:left; margin-left:0; padding-left:24px;">
-    <li>Register and authenticate you</li>
-    <li>Provide and customize our Services</li>
-    <li>Monitor, improve, and develop new features</li>
-    <li>Product roadmapping and marketing</li>
-    <li>Communicate and handle complaints</li>
-    <li>Send marketing materials (with consent)</li>
-    <li>Maintain safety and security</li>
-    <li>Legal and regulatory compliance</li>
-    <li>Enforce our rights</li>
-  </ul>
+  <div style="text-align:left; margin:0 auto 24px auto; max-width:600px;">
+    <ul style="margin:0; padding-left:24px;">
+      <li>Register and authenticate you</li>
+      <li>Provide and customize our Services</li>
+      <li>Monitor, improve, and develop new features</li>
+      <li>Product roadmapping and marketing</li>
+      <li>Communicate and handle complaints</li>
+      <li>Send marketing materials (with consent)</li>
+      <li>Maintain safety and security</li>
+      <li>Legal and regulatory compliance</li>
+      <li>Enforce our rights</li>
+    </ul>
+  </div>
 
   <h2>4. INFORMATION WE COLLECT WHEN YOU PLAY A DEVELOPER GAME AS A USER</h2>
   <h3>4.1 Personal Information you provide directly in the Developer Game:</h3>
