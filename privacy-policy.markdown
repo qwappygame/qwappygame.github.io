@@ -66,6 +66,7 @@ If we learn that any personal information has been collected inadvertently from 
 ## 4. INFORMATION WE COLLECT WHEN YOU PLAY A DEVELOPER GAME AS A USER
 
 **4.1 Personal Information you provide directly in the Developer Game:**
+
 | Data Type | Examples |
 |:---------:|:---------|
 | Contact | Name, username, phone, email, address |
