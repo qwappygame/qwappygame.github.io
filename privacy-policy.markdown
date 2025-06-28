@@ -19,13 +19,14 @@ permalink: /privacy-policy/
 </aside>
 
 ## 1. REGION-SPECIFIC DISCLOSURES
-We may choose or be required by law to provide different or additional disclosures relating to the processing of personal information about residents of certain countries, regions or states.
 
-| Region/Country | Special Notice/Contact |
-|:--------------:|:----------------------|
-| California, USA | See [Annex 1] for California-specific privacy disclosures |
-| Nevada, USA | To opt out of future sales of certain information, contact:<br>**support@skillz.com** |
-| EEA/UK | See [Annex 2] for EEA/UK-specific privacy disclosures |
+Depending on your country or region of residence, you may have additional rights under applicable privacy laws. Please see the information below:
+
+| Region/Country   | Special Notice / Contact                                                                 |
+|:----------------:|:----------------------------------------------------------------------------------------|
+| California, USA  | Under the California Consumer Privacy Act (CCPA), California residents have specific rights regarding their personal information, including the right to know, delete, and opt out of the sale of personal data. For more information or to exercise your rights, contact support@skillz.com. |
+| Nevada, USA      | Nevada residents may request to opt out of the sale of certain personal information as defined by Nevada law (NRS 603A). To submit a request, contact support@skillz.com. |
+| EEA/UK           | Residents of the European Economic Area (EEA) and United Kingdom have rights under the General Data Protection Regulation (GDPR), including access, rectification, erasure, and objection to processing. For inquiries or to exercise your rights, contact support@skillz.com. |
 
 ## 2. SPECIAL NOTICE REGARDING MINORS UNDER 18 YEARS OF AGE
 Skillz respects the privacy of children. The Services are **not intended or directed towards children or minors under the age of 18**. Please do not use the Services if you are under the age of 18.
