@@ -6,10 +6,17 @@ layout: default
 title: COMPANY
 ---
 
-<div style="position:relative; width:100%; max-width:900px; margin:auto; padding-top:42.85%; display:flex; justify-content:center;">
-  <iframe src="https://www.youtube.com/embed/jSCKL8MkQV4"
-    style="position:absolute; top:0; left:0; width:100%; height:100%; border-radius:18px;"
-    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="width:100%; max-width:900px; margin:auto; display:flex; justify-content:center;">
+  <iframe
+    src="https://www.youtube.com/embed/jSCKL8MkQV4"
+    width="900"
+    height="400"
+    style="border-radius:18px;"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
 </div>
 
 <!-- ABOUT SECTION -->
