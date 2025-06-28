@@ -4,10 +4,12 @@ title: ""
 permalink: /privacy-policy/
 ---
 
-# Privacy Policy
+<div style="text-align:center;">
+  <h1>Privacy Policy</h1>
+</div>
 
 <div style="display:flex; gap:40px; align-items:flex-start;">
-  <div style="flex:3; min-width:0; text-align:center;">
+  <div style="flex:3; min-width:0;">
 
 ## 1. REGION-SPECIFIC DISCLOSURES
 We may choose or be required by law to provide different or additional disclosures relating to the processing of personal information about residents of certain countries, regions or states.
@@ -93,16 +95,24 @@ If we learn that any personal information has been collected inadvertently from 
 
   </div>
   <div style="flex:1; min-width:220px; position:sticky; top:120px; align-self:flex-start;">
-    <div style="background:#fafafa; border:1.5px solid #eee; border-radius:12px; padding:18px 16px; margin-bottom:24px; box-shadow:0 2px 8px rgba(0,0,0,0.03); font-size:1.08rem;">
-      <strong style="font-size:1.12rem;">Quick Navigation</strong>
-      <ul style="list-style:none; padding:0; margin:12px 0 0 0;">
+    <div class="quick-nav-box">
+      <h3>Quick Navigation</h3>
+      <ol>
         <li><a href="#1-region-specific-disclosures">1. Region-Specific Disclosures</a></li>
         <li><a href="#2-special-notice-regarding-minors-under-18-years-of-age">2. Minors Under 18</a></li>
         <li><a href="#3-information-we-collect-when-you-use-our-site-and-our-services-as-a-game-developer">3. Info for Game Developers</a></li>
         <li><a href="#4-information-we-collect-when-you-play-a-developer-game-as-a-user">4. Info for Game Users</a></li>
-      </ul>
+      </ol>
     </div>
   </div>
+</div>
+
+<div style="margin-top:48px; text-align:center;">
+  <img src="{{ '/assets/images/icons/Skillz.png' | relative_url }}" alt="Skillz Logo" style="height:48px; margin-bottom:16px;">
+  <br>
+  <a href="https://www.skillz.com/privacy-policy/#annex-1" target="_blank" style="display:inline-block; padding:12px 32px; border-radius:24px; border:2px solid #7c4dff; color:#7c4dff; font-weight:600; font-size:1.1rem; background:#fff; text-decoration:none; transition:background 0.2s; margin-top:8px;">
+    See Full Privacy Policy
+  </a>
 </div>
 
 ---
