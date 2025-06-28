@@ -9,8 +9,8 @@ title: COMPANY
 <div style="width:100%; max-width:900px; margin:auto; display:flex; justify-content:center;">
   <iframe
     src="https://www.youtube.com/embed/jSCKL8MkQV4"
-    width="1280"
-    height="720"
+    width="900"
+    height="400"
     style="border-radius:18px;"
     title="YouTube video player"
     frameborder="0"
