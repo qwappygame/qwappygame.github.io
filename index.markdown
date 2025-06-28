@@ -19,6 +19,11 @@ title: COMPANY
   </iframe>
 </div>
 
+<!-- Qwappy Main Icon -->
+<div style="width:100%; display:flex; justify-content:center; margin:32px 0 0 0;">
+  <img src="{{ '/assets/images/logo/MainIcon.png' | relative_url }}" alt="Qwappy Main Icon" style="max-width:180px; width:100%; height:auto;">
+</div>
+
 <!-- ABOUT SECTION -->
 <section style="max-width: 900px; margin: 60px auto 40px auto; padding: 0 24px;">
   <h1 style="font-size:2.6rem; font-weight:700; letter-spacing:-1px; margin-bottom:12px;">
