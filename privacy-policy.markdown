@@ -1,13 +1,3 @@
-<aside class="quick-nav-box">
-  <b>Quick Navigation</b>
-  <ol>
-    <li><a href="#1-region-specific-disclosures">Region-Specific Disclosures</a></li>
-    <li><a href="#2-special-notice-regarding-minors-under-18-years-of-age">Minors Under 18</a></li>
-    <li><a href="#3-information-we-collect-when-you-use-our-site-and-our-services-as-a-game-developer">Info for Game Developers</a></li>
-    <li><a href="#4-information-we-collect-when-you-play-a-developer-game-as-a-user">Info for Game Users</a></li>
-  </ol>
-</aside>
-
 # Privacy Policy
 
 ## 1. REGION-SPECIFIC DISCLOSURES
