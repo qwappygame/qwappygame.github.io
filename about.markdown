@@ -18,8 +18,8 @@ permalink: /about/
         <a href="https://apps.apple.com/app/id6747564479" target="_blank" style="display:inline-block;">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" style="height:40px;">
         </a>
-        <a href="https://galaxy.store/yourapp" target="_blank" style="background:#0d6efd; color:#fff; display:inline-flex; align-items:center; justify-content:center; min-width:135px; height:40px; font-size:1rem; font-weight:600; border-radius:8px; text-decoration:none; margin:0; padding:0 0;">
-          Galaxy Store
+        <a href="https://galaxy.store/yourapp" target="_blank" style="display:inline-block;">
+          <img src="{{ '/assets/images/icons/GalaxyStore.png' | relative_url }}" alt="Galaxy Store" style="height:40px;">
         </a>
         <a href="https://www.skillz.com/games/yourapp" target="_blank" style="background:#43e97b; color:#222; display:inline-flex; align-items:center; justify-content:center; min-width:135px; height:40px; font-size:1rem; font-weight:600; border-radius:8px; text-decoration:none; margin:0; padding:0 0;">
           Skillz
