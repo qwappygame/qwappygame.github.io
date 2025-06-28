@@ -1,3 +1,9 @@
+---
+layout: page
+title: ""
+permalink: /privacy-policy/
+---
+
 # Privacy Policy
 
 ## 1. REGION-SPECIFIC DISCLOSURES
