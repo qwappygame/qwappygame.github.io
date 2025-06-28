@@ -21,8 +21,19 @@ title: COMPANY
 
 <!-- Qwappy Main Icon -->
 <div style="width:100%; display:flex; justify-content:center; margin:32px 0 0 0;">
-  <img src="{{ '/assets/images/logo/MainIcon.png' | relative_url }}" alt="Qwappy Main Icon" style="max-width:180px; width:100%; height:auto;">
+  <img id="main-qwappy-icon" src="{{ '/assets/images/logo/MainIcon.png' | relative_url }}" alt="Qwappy Main Icon" style="max-width:360px; width:100%; height:auto; opacity:0; transform:scale(0.85); transition:opacity 0.8s cubic-bezier(.4,2,.6,1), transform 0.8s cubic-bezier(.4,2,.6,1);">
 </div>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    var icon = document.getElementById('main-qwappy-icon');
+    if(icon) {
+      setTimeout(function() {
+        icon.style.opacity = '1';
+        icon.style.transform = 'scale(1)';
+      }, 200);
+    }
+  });
+</script>
 
 <!-- ABOUT SECTION -->
 <section style="max-width: 900px; margin: 60px auto 40px auto; padding: 0 24px;">
