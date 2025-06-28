@@ -56,4 +56,92 @@ body {
 .site-nav .page-link.active {
   color: #7c4dff !important;
   border-bottom: 2.5px solid #7c4dff;
+}
+
+.policy-container {
+  max-width: 900px;
+  margin: 48px auto 0 auto;
+  background: #fff;
+  border-radius: 24px;
+  box-shadow: 0 4px 32px rgba(60,40,120,0.10);
+  padding: 48px 32px 40px 32px;
+  text-align: center;
+}
+
+.policy-container h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 32px;
+  color: #5a2d9c;
+  letter-spacing: -1px;
+}
+
+.policy-container h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 36px 0 18px 0;
+  color: #333;
+}
+
+.policy-container h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 28px 0 12px 0;
+  color: #7c4dff;
+}
+
+.policy-container table {
+  margin: 24px auto 32px auto;
+  border-collapse: collapse;
+  width: 90%;
+  background: #faf7ff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(124,77,255,0.07);
+}
+
+.policy-container th, .policy-container td {
+  padding: 14px 12px;
+  border-bottom: 1px solid #e5dbff;
+  text-align: left;
+  font-size: 1.05rem;
+}
+
+.policy-container th {
+  background: #ede7f6;
+  color: #5a2d9c;
+  font-weight: 700;
+}
+
+.policy-container tr:last-child td {
+  border-bottom: none;
+}
+
+.policy-container ul {
+  display: inline-block;
+  text-align: left;
+  margin: 12px 0 24px 0;
+  padding-left: 22px;
+  font-size: 1.05rem;
+}
+
+.policy-container li {
+  margin-bottom: 7px;
+}
+
+.policy-container p {
+  color: #444;
+  font-size: 1.08rem;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 700px) {
+  .policy-container {
+    padding: 18px 4vw 24px 4vw;
+    max-width: 99vw;
+  }
+  .policy-container table {
+    width: 100%;
+    font-size: 0.98rem;
+  }
 } 

@@ -4,7 +4,7 @@ title: ""
 permalink: /privacy-policy/
 ---
 
-<div style="text-align:center;">
+<div class="policy-container">
 
   <h1>Privacy Policy</h1>
 
