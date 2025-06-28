@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "Privacy Policy"
+title: ""
 permalink: /privacy-policy/
 ---
 
 # Privacy Policy
 
-_아래 내용은 Skillz 공식 Privacy Policy(https://www.skillz.com/privacy-policy/#annex-1)에서 발췌되었습니다._
+<div style="display:flex; gap:32px; align-items:flex-start;">
+  <div style="flex:3; min-width:0;">
 
 ## 1. REGION-SPECIFIC DISCLOSURES
 
@@ -84,6 +85,18 @@ Skillz respects the privacy of children. The Services are not intended or direct
 - Inform and support our marketing, including helping us determine products and services that may be of interest to you and contacting individuals about our Services.
 - Maintain the safety and security of our Services: we use your personal information to detect and prevent fraud, cheating, abuse or other harmful activities, diagnose and fix technology problems, conduct security investigations and risk assessments, and improve and enforce our security measures.
 
----
+  </div>
+  <div style="flex:1; min-width:220px; position:sticky; top:120px; align-self:flex-start;">
+    <div style="background:#fafafa; border:1.5px solid #eee; border-radius:12px; padding:18px 16px; margin-bottom:24px; box-shadow:0 2px 8px rgba(0,0,0,0.03); font-size:1.08rem;">
+      <strong style="font-size:1.12rem;">Quick Navigation</strong>
+      <ul style="list-style:none; padding:0; margin:12px 0 0 0;">
+        <li><a href="#1-region-specific-disclosures">1. Region-Specific Disclosures</a></li>
+        <li><a href="#2-special-notice-regarding-minors-under-18-years-of-age">2. Minors Under 18</a></li>
+        <li><a href="#3-information-we-collect-when-you-use-our-site-and-our-services-as-a-game-developer">3. Info for Game Developers</a></li>
+        <li><a href="#4-information-we-collect-when-you-play-a-developer-game-as-a-user">4. Info for Game Users</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-_이 페이지의 내용은 [Skillz Privacy Policy](https://www.skillz.com/privacy-policy/#annex-1)에서 발췌되었습니다. 최신 정보는 원본 사이트를 참고하세요._ 
+---
