@@ -11,10 +11,10 @@ permalink: /privacy-policy/
 <aside class="quick-nav-box" style="float:right; width:270px; margin:0 0 24px 32px;">
   <b>Quick Navigation</b>
   <ol>
-    <li><a href="#1-region-specific-disclosures">1. Region-Specific Disclosures</a></li>
-    <li><a href="#2-special-notice-regarding-minors-under-18-years-of-age">2. Minors Under 18</a></li>
-    <li><a href="#3-information-we-collect-when-you-use-our-site-and-our-services-as-a-game-developer">3. Info for Game Developers</a></li>
-    <li><a href="#4-information-we-collect-when-you-play-a-developer-game-as-a-user">4. Info for Game Users</a></li>
+    <li><a href="#1-region-specific-disclosures">Region-Specific Disclosures</a></li>
+    <li><a href="#2-special-notice-regarding-minors-under-18-years-of-age">Minors Under 18</a></li>
+    <li><a href="#3-information-we-collect-when-you-use-our-site-and-our-services-as-a-game-developer">Info for Game Developers</a></li>
+    <li><a href="#4-information-we-collect-when-you-play-a-developer-game-as-a-user">Info for Game Users</a></li>
   </ol>
 </aside>
 
@@ -35,6 +35,7 @@ If we learn that any personal information has been collected inadvertently from 
 ## 3. INFORMATION WE COLLECT WHEN YOU USE OUR SITE AND OUR SERVICES AS A GAME DEVELOPER
 
 **3.1 Personal Information you provide directly to us, which may include:**
+
 | Data Type | Examples |
 |:---------:|:---------|
 | Login/Contact | Name, phone number, email address, password |
