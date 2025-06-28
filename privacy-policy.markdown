@@ -58,14 +58,14 @@ permalink: /privacy-policy/
   </table>
 
   <h3>3.2 Personal Information that is passively collected when you use the Sites or Services:</h3>
-  <ul style="display:inline-block; text-align:left;">
+  <ul style="text-align:left; margin-left:0; padding-left:24px;">
     <li>Log File Data (IP address, OS, browser, date/time, pages visited)</li>
     <li>Analytics Data (clickstream, usage/activity)</li>
     <li>Approximate Location Data (IP-based)</li>
   </ul>
 
   <h3>3.3 How we use this information:</h3>
-  <ul style="display:inline-block; text-align:left;">
+  <ul style="text-align:left; margin-left:0; padding-left:24px;">
     <li>Register and authenticate you</li>
     <li>Provide and customize our Services</li>
     <li>Monitor, improve, and develop new features</li>
