@@ -18,10 +18,10 @@ permalink: /about/
         <a href="https://apps.apple.com/app/id6747564479" target="_blank" style="display:inline-block;">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" style="height:40px;">
         </a>
-        <a href="https://galaxy.store/yourapp" target="_blank" style="display:inline-block; margin-right:8px;">
+        <a href="https://galaxystore.samsung.com/preorder/000008325322" target="_blank" style="display:inline-block; margin-right:8px;">
           <img src="{{ '/assets/images/icons/GalaxyStore.png' | relative_url }}" alt="Galaxy Store" style="height:40px; border-radius:12px; border:1.5px solid #ddd; background:#fff; box-sizing:border-box;">
         </a>
-        <a href="https://www.skillz.com/games/yourapp" target="_blank" style="display:inline-block;">
+        <a href="https://games.skillz.com/mobile/games/67974" target="_blank" style="display:inline-block;">
           <img src="{{ '/assets/images/icons/Skillz.png' | relative_url }}" alt="Skillz" style="height:40px; border-radius:12px; border:1.5px solid #ddd; background:#fff; box-sizing:border-box;">
         </a>
       </div>
